@@ -1,0 +1,15 @@
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/bin/Debug/net6.0/Lab 05 The basics OOP
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/bin/Debug/net6.0/Lab 05 The basics OOP.deps.json
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/bin/Debug/net6.0/Lab 05 The basics OOP.runtimeconfig.json
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/bin/Debug/net6.0/Lab 05 The basics OOP.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/bin/Debug/net6.0/Lab 05 The basics OOP.pdb
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/Lab 05 The basics OOP.csproj.AssemblyReference.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/Lab 05 The basics OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/Lab 05 The basics OOP.AssemblyInfoInputs.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/Lab 05 The basics OOP.AssemblyInfo.cs
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/Lab 05 The basics OOP.csproj.CoreCompileInputs.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/Lab 05 The basics OOP.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/refint/Lab 05 The basics OOP.dll
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/Lab 05 The basics OOP.pdb
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/Lab 05 The basics OOP.genruntimeconfig.cache
+/Users/Suhagan/Desktop/NET23/C sharp/Lab 05  The basics OOP/Lab 05 The basics OOP/Lab 05 The basics OOP/obj/Debug/net6.0/ref/Lab 05 The basics OOP.dll
